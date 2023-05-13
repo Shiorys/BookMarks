@@ -14,6 +14,35 @@
 
 
 
+## 视频播放器
+
+> https://www.zhihu.com/question/20033434/answers/updated?page=1
+> 		https://www.zhihu.com/question/20033434
+>
+> PotPlayer在线看直播、看电视设置
+>
+> ```
+> 1、获取直播源
+> 访问直播源地址:https://github.com/iptv-org/iptv，然后解压源码包到iptv-master文件夹
+> 2、导入直播源
+> 导入方法1：打开PotPlayer，右键并选择，打开/打开文件，选择文件名：cn.m3u（国内直播源，注意目录 D:\tools\iptv-master\streams）；其余为国外直播源，也可全部导入。
+> 导入方法2：复制网址链接https://iptv-org.github.io/iptv/index.country.m3u打开potplayer，右键——打开——打开链接——粘贴链接——确定，即可打开链接
+> ```
+
+| 名称       | 地址                                                         | 说明                                                         | 备注 |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| PotPlayer  | https://potplayer.daum.net<br />http://potplayer.tv/<br />https://potplayer.org/<br />微软应用商店下载<br />PotPlayer中文网：http://www.potplayercn.com/ | PotPlayer是一款为Windows设计的功能丰富的视频播放器，提供许多高级设置 |      |
+| VLC        | https://www.videolan.org/                                    | VLC 可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议 |      |
+| MPC-HC     | https://mpc-hc.org/<br />https://github.com/mpc-hc/mpc-hc    | MPC-HC是一款轻量级的视频播放器，专为Windows设计，界面简洁且易于使用 |      |
+| IINA       | https://iina.io/<br />https://github.com/iina/iina           | IINA是一个专为macOS设计的现代视频播放器，界面美观且支持许多高级功能 |      |
+| SMPlayer   | https://www.smplayer.info/                                   | SMPlayer是一款开源的跨平台多媒体播放器，特别适用于Linux用户  |      |
+| KMPlayer   | https://www.kmplayer.com/                                    | KMPlayer是另一个流行的跨平台视频播放器，支持各种视频和音频格式 |      |
+| GridPlayer | https://github.com/vzhd1701/gridplayer                       | GridPlayer支持多个视频的同时播放                             |      |
+| MPVPlayer  | https://mpv.io/                                              | 是一款免费、自由、开源、无广的全平台媒体播放器               |      |
+| 恒星播放器 | https://www.stellarplayer.com/                               | 轻松播放各种格式视频，手机电脑无缝流转                       |      |
+
+
+
 ## 浏览器
 
 | 名称           | 地址                                 | 说明   | 备注 |
