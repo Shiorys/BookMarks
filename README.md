@@ -60,12 +60,20 @@
 
 # 办公相关
 
+## 笔记记录
+
+| 名称 | 地址                   | 说明                  | 备注          |
+| ---- | ---------------------- | --------------------- | ------------- |
+| 语雀 | https://www.yuque.com/ | Shiorys、Phone--yuque | Phone、QQmail |
+
+
+
 ## 远程控制
 
 | 名称       | 地址                                                  | 说明                 | 备注          |
 | ---------- | ----------------------------------------------------- | -------------------- | ------------- |
 | 向日葵     | https://sunlogin.oray.com/<br />https://www.oray.com/ | Shiorys、Phone--oray | Phone、QQmail |
-| ToDesk     | https://www.todesk.com/                               | Phone--td            | 软件          |
+| ToDesk     | https://www.todesk.com/                               | Phone--td            | Phone、QQmail |
 | TeamViewer | https://www.teamviewer.cn/                            | 远程办公             |               |
 
 
@@ -82,6 +90,17 @@
 
 ## 在线翻译
 
-| 名称      | 地址                             | 说明     | 备注 |
-| --------- | -------------------------------- | -------- | ---- |
-| DeepL翻译 | https://www.deepl.com/translator | 在线翻译 |      |
+| 名称             | 地址                                                | 说明     | 备注 |
+| ---------------- | --------------------------------------------------- | -------- | ---- |
+| DeepL翻译        | https://www.deepl.com/translator                    | 在线翻译 |      |
+| 谷歌翻译恢复工具 | https://github.com/Ponderfly/GoogleTranslateIpCheck |          |      |
+
+
+
+# 在线工具
+
+## 网络相关
+
+| 名称     | 地址                     | 说明                                                         | 备注 |
+| -------- | ------------------------ | ------------------------------------------------------------ | ---- |
+| 站长工具 | https://tool.chinaz.com/ | 在线工具集合，如：<br />IP查询：https://ip.tool.chinaz.com/<br />Ping检测：https://ping.chinaz.com/ |      |
