@@ -180,3 +180,17 @@
 | 音乐解锁工具                               | https://github.com/nondanee/UnblockNeteaseMusic<br />https://github.com/EraserKing/CloudMusicGear<br />https://github.com/ITJesse/UnblockNeteaseMusic | 解锁网易云音乐客户端变灰歌曲                      | 解锁软件 |
 | Listen 1 音乐播放器                        | https://github.com/listen1                                   | Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲 | 免费软件 |
 | UnblockNetEaseMusic<br />NetEaseMusicWorld | https://github.com/fengjueming/unblock-NetEaseMusic<br />https://github.com/acgotaku/NetEaseMusicWorld | 海外网易云音乐代理                                |          |
+
+
+
+# Scientific上网
+
+## Scientific工具
+
+| 名称            | 地址                                             | 说明                                    | 备注                                                         |
+| --------------- | ------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------ |
+| Clash           | https://github.com/Dreamacro/clash               | 一个 Go 语言开发的多平台代理客户端      | https://github.com/Dreamacro/clash/wiki                      |
+| ClashX          | https://github.com/yichengchen/clashX            | Clash 的 Mac 图形客户端                 |                                                              |
+| ClashForAndroid | https://github.com/Kr328/ClashForAndroid         | Clash 的 Android 图形客户端             |                                                              |
+| ClashforWindows | https://github.com/Fndroid/clash_for_windows_pkg | Clash 的 Windows/macOS/Linux 图形客户端 | https://docs.cfw.lbyczf.com/<br />https://github.com/Fndroid/clash-win-docs-new |
+| v2rayN          | https://github.com/2dust/v2rayN                  | Windows 的 GUI 客户端                   | https://demo.ama.pub/<br />https://www.v2rayfree.eu.org/post/v2rayN-tutorial/ |
