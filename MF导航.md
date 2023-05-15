@@ -1,4 +1,4 @@
-<center><h1>魔法科技</h1></center>
+<center><h1>MF导航</h1></center>
 
 <center><h5>作者：汐小旅Shiory</h5></center>
 
@@ -8,7 +8,7 @@
 
 | 名称 | 地址                                                         | 说明                         | 备注 |
 | ---- | ------------------------------------------------------------ | ---------------------------- | ---- |
-| 快橙 | https://qqbooster.com/ (魔法)<br />https://uploadseo.jengsin.com.tw/qq1/tqq231 | 实惠、迅捷、可靠、永远能连上 |      |
+| 快橙 | https://qqbooster.com/ (MF)<br />https://uploadseo.jengsin.com.tw/qq1/tqq231 | 实惠、迅捷、可靠、永远能连上 |      |
 
 
 
