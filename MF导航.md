@@ -22,3 +22,32 @@
 | ClashforWindows | https://github.com/Fndroid/clash_for_windows_pkg | Clash 的 Windows/macOS/Linux 图形客户端 | https://docs.cfw.lbyczf.com/<br />https://github.com/Fndroid/clash-win-docs-new |
 | v2rayN          | https://github.com/2dust/v2rayN                  | Windows 的 GUI 客户端                   | https://demo.ama.pub/<br />https://www.v2rayfree.eu.org/post/v2rayN-tutorial/ |
 
+
+
+# 接码平台
+
+## 114sim
+
+> http://www.114sim.com/ , https://www.shejiinn.com/
+>
+> ![](img/微信截图_20230521234653.png)
+
+
+
+## 接码平台
+
+> https://www.zsrq.net/
+>
+> ![](img/微信截图_20230522002617.png)
+
+
+
+
+
+# 身份信息
+
+## 美国地址身份信息
+
+> https://www.bfsms.com/
+>
+> ![](img/微信截图_20230521235154.png)
