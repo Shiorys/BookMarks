@@ -6,7 +6,7 @@
 
 # 网站列表
 
-| 名称     | 地址                           | 备注 |
-| -------- | ------------------------------ | ---- |
-| WowGirls | https://www.wowgirls.com/ (MF) |      |
-| MoBok    | https://mobok.club/            |      |
+| 网站                                  | 备注   |
+| ------------------------------------- | ------ |
+| [WowGirls](https://www.wowgirls.com/) | 需魔法 |
+| [MoBok](https://mobok.club/)          |        |
