@@ -21,13 +21,3 @@
 | ClashForAndroid | https://github.com/Kr328/ClashForAndroid         | Clash 的 Android 图形客户端             |                                                              |
 | ClashforWindows | https://github.com/Fndroid/clash_for_windows_pkg | Clash 的 Windows/macOS/Linux 图形客户端 | https://docs.cfw.lbyczf.com/<br />https://github.com/Fndroid/clash-win-docs-new |
 | v2rayN          | https://github.com/2dust/v2rayN                  | Windows 的 GUI 客户端                   | https://demo.ama.pub/<br />https://www.v2rayfree.eu.org/post/v2rayN-tutorial/ |
-
-
-
-# 身份信息
-
-## 美国地址身份信息
-
-> https://www.bfsms.com/
->
-> ![](img/微信截图_20230521235154.png)
