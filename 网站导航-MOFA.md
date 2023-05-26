@@ -26,9 +26,9 @@
 
 # 订阅分享
 
-## Forums
+## AMA
 
-> 网址：[Forums](https://demo.ama.pub/)
+> 网址：[AMA](https://demo.ama.pub/)
 >
 > ![](img/微信截图_20230527013553.png)
 
@@ -39,3 +39,21 @@
 > 网址：[v2rayfree](https://www.v2rayfree.eu.org/)
 >
 > ![](img/微信截图_20230527013820.png)
+
+
+
+## Donia WeB
+
+> 网址：[DoniaWeB](https://doniaweb.com/)
+>
+> ![](img/微信截图_20230527021258.png)
+
+
+
+# 短连接生成
+
+## BELINK
+
+> 网址：[BELINK](https://www.ama.pub/)
+>
+> ![](img/微信截图_20230527020223.png)
