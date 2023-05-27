@@ -60,6 +60,14 @@
 
 
 
+## 订阅转换
+
+> 网址：[在线转换](https://sub.lanyundev.com/)；[GitHub1](https://github.com/CareyWang/sub-web)；[GitHub2](https://github.com/tindy2013/subconverter)
+>
+> ![](img/微信截图_20230527120141.png)
+
+
+
 # 短连接生成
 
 ## BELINK
@@ -67,6 +75,14 @@
 > 网址：[BELINK](https://www.ama.pub/)
 >
 > ![](img/微信截图_20230527020223.png)
+
+
+
+## MyUrls
+
+> 网址：[GitHub](https://github.com/CareyWang/MyUrls)
+
+
 
 
 
@@ -92,9 +108,11 @@
 
 ## LanYun博客
 
-> 网址：[LanYunBlog](https://lanyundev.com/)
+> 网址：[LanYunBlog](https://lanyundev.com/)；[GitHub](https://github.com/LanYunDev)
 >
 > ![](img/微信截图_20230527032033.png)
+>
+> ![](img/微信截图_20230527113356.png)
 
 
 
@@ -103,3 +121,16 @@
 > 网址：[EdNovas](https://ednovas.xyz/)
 >
 > ![](img/微信截图_20230527032312.png)
+
+
+
+## 梦落の小屋
+
+> 网址：[梦落の小屋](https://blog.dreamfall.cn/)
+>
+> ![](img/微信截图_20230527110802.png)
+
+
+
+
+
