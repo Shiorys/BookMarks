@@ -27,5 +27,6 @@
 | [青空彼端](https://www.acgns.xyz/)   | 动漫资源软件下载                       |
 | [来漫画](https://www.comemh.com/)    | 在线看漫画                             |
 | [萌研社](http://www.pcmoe.net/)      | 资源                                   |
+| [E次元](https://www.evacg.cc/)       | 漫画图片资源                           |
 
 
